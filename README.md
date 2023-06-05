@@ -1,14 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 
 # 📗 Table of Contents
 
@@ -32,10 +21,10 @@
 
 
 
-# 📖 [HELLO MICROVERSE!] <a name="about-project"></a>
+# 📖 TRIAL PROJECT! <a name="about-project"></a>
 
-> This is my first project with Microverse using Github professional flow
-**[Hello Microverse]** 
+> This is my project with Microverse using Github professional flow
+**[Trial Project]** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://afsheen96.github.io/Hello-Microverse)
+COMING SOON
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +76,7 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-git clone https://github.com/afsheen96/Hello-Microverse.git
+git clone https://github.com/afsheen96/Trial-project.git
 
 
 **3. Install**
